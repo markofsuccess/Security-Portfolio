@@ -70,16 +70,16 @@ Then, type an X in the “yes” or “no” column to answer the question: Does
 
 - Intrusion detection system (IDS)	--->	No
 
-- Backups							             --->       No
+- Backups							             --->      No
 
-- Antivirus software						   --->       Yes
-
-Manual monitoring, maintenance, and intervention for legacy systems 
-- No
+- Antivirus software						   --->      Yes
 
 - Encryption							          --->       No
 
 - Password management system	--->			    No
+
+Manual monitoring, maintenance, and intervention for legacy systems 
+ - No  
 
 Locks (offices, storefront, warehouse)
 - Yes
