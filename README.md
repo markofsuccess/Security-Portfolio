@@ -58,28 +58,28 @@ Then, type an X in the “yes” or “no” column to answer the question: Does
 
 ### Yes No Control
 
-Least Privilege 						            No 
+- Least Privilege 						            No 
 
-Disaster recovery plans					        No
+- Disaster recovery plans					      No
 
-Password policies						            No
+- Password policies						           No
 
-Separation of duties						        No
+- Separation of duties						        No
 
-Firewall							                  Yes
+- Firewall							                   Yes
 
-Intrusion detection system (IDS)				No
+- Intrusion detection system (IDS)		No
 
-Backups							                    No
+- Backups							                    No
 
-Antivirus software						          Yes
+- Antivirus software						          Yes
 
 Manual monitoring, maintenance, and intervention for legacy systems 
 - No
 
-Encryption							                No
+- Encryption							                 No
 
-Password management system				      No
+- Password management system				    No
 
 Locks (offices, storefront, warehouse)
 - Yes
@@ -149,7 +149,7 @@ Data is available to individuals authorized to access it.
 
 # Recommended Actions : 
 
-In this section, suggested recommendations, related to controls and/or compliance needs, that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture
+In this section, suggested recommendations, related to controls and/or compliance needs, that Botium Toys IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture
 
 Multiple controls need to be implemented to improve Botium Toys’ security posture
 and better ensure the confidentiality of sensitive information, including: 
