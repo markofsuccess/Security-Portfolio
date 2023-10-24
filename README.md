@@ -22,7 +22,7 @@ Assets managed by the IT Department include:
 - Data retention and storage
 - Legacy system maintenance: end-of-life systems that require human monitoring 
 - Risk assessment
-- 
+  
 ## Risk description
 
 Currently, there is inadequate management of assets. Additionally, Botium Toys does not have all of the proper controls in place and may not be fully compliant with U.S. and international regulations and standards. 
@@ -136,7 +136,7 @@ Enforce privacy policies, procedures, and processes to properly document and mai
 User access policies are established.
 - No
 
-data (PII/SPII) is confidential/private.
+Data (PII/SPII) is confidential/private.
 - No
 
 Data integrity ensures the data is consistent, complete, accurate, and has been validated.
