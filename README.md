@@ -58,28 +58,28 @@ Then, type an X in the “yes” or “no” column to answer the question: Does
 
 ### Yes No Control
 
-- Least Privilege 						            No 
+- Least Privilege 						     --->       No 
 
-- Disaster recovery plans					      No
+- Disaster recovery plans			 --->		     No
 
-- Password policies						           No
+- Password policies						    --->       No
 
-- Separation of duties						        No
+- Separation of duties						 --->       No
 
-- Firewall							                   Yes
+- Firewall							            --->       Yes
 
-- Intrusion detection system (IDS)		No
+- Intrusion detection system (IDS)	--->	No
 
-- Backups							                    No
+- Backups							             --->       No
 
-- Antivirus software						          Yes
+- Antivirus software						   --->       Yes
 
 Manual monitoring, maintenance, and intervention for legacy systems 
 - No
 
-- Encryption							                 No
+- Encryption							          --->       No
 
-- Password management system				    No
+- Password management system	--->			    No
 
 Locks (offices, storefront, warehouse)
 - Yes
@@ -102,7 +102,7 @@ Payment Card Industry Data Security Standard (PCI DSS)
 
 Only authorized users have access to customers’ credit card information.
  - No
- - 
+   
 Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment.
 - No
   
